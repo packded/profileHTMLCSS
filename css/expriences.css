@@ -1,0 +1,38 @@
+/* CSS file  --> expriences.html */
+
+
+body{
+    background-color: #CFE8A9;
+}
+
+/* top table */
+.table-menu table{
+    width:100% ;
+    text-align: center;
+}
+
+.table-menu td:hover{
+    background-color: #E64848;
+}
+a:hover{
+    color: white!important;
+}
+
+
+/* real content */
+
+.font-expriences {
+    text-align:center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: normal;
+}
+
+.table-abilities table{
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.table-abilities h2{
+    text-align: center;
+    background-color: #FFFDE3;
+}

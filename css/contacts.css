@@ -1,0 +1,37 @@
+/* CSS file  --> contacts.html */
+
+
+body{
+    background-color: #CFE8A9;
+}
+
+/* top table */
+.table-menu table{
+    width:100% ;
+    text-align: center;
+}
+
+.table-menu td:hover{
+    background-color: #E64848;
+}
+a:hover{
+    color: white!important;
+}
+
+/* Top quote */
+.top-quote h1{
+    text-align:center;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.top-quote h3{
+    text-align:center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: normal;
+}
+
+/* real content */
+.contact-table table{
+    width: 100%;
+    text-align: center;
+}

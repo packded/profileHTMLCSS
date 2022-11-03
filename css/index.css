@@ -1,0 +1,71 @@
+/* CSS file  --> index.html */
+/* (1) Tag selector */
+body{
+    background-color: #CFE8A9;
+}
+h1{
+    text-align:center;
+    font-family: monospace;
+    /* background-color: #C21010; */
+}
+h2{
+    text-align:center;
+    font-family: monospace;
+    font-weight:normal;
+    /* background-color: #E64848; */
+}
+
+h4{
+    text-align:center;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-weight: normal;
+}
+table{
+    width:100% ;
+    text-align: center;
+}
+th{
+    width: 33.33%;
+    vertical-align:top; 
+}
+
+/*(2) Clss selector */
+.p-Aboutme{
+    font-weight:normal;
+    text-align:justify;
+}
+.p-Name{
+    font-weight: normal;
+}
+.p-Footer{
+    text-align:center;
+}
+.name{
+    text-decoration: underline;
+    color: brown;
+    background-color: rgb(229, 190, 175);
+}
+
+
+/*(3) Id selector */
+#th-Details{
+    text-align: left;
+}
+
+/* div */
+.top-container{
+    background-color: #C21010;
+    color: white;
+}
+.table-menu td:hover{
+    background-color: #E64848;
+}
+a:hover{
+    color: white!important;
+}
+.table-content h2{
+    background-color: #FFFDE3;
+}
+.table-content img:hover{
+    background-color: #CFE8A9;
+}
